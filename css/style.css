@@ -1,0 +1,36 @@
+.center-css {
+    text-align: center;
+}
+
+.link1 {
+    text-decoration: none;
+    color:red;
+}
+
+.link1:hover {
+    color: blue;
+}
+
+.link1:active {
+    color:green;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+.sobre {
+    height: 300px;
+    width: 500px;
+    margin-left: 350px;
+    margin-top: 100px;
+    border: 2px solid black;
+    text-align: center;
+    box-shadow: 5px 5px black;
+    background-color: rgb(231, 231, 231);
+}
+
+.info1 {
+    margin-top: 50px;
+    padding: 20px;
+}
